@@ -1,0 +1,123 @@
+.avatar{
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;
+    margin-top: 2.5rem;
+}
+
+
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#description{
+    position: relative;
+    display: inline-block;
+    left: 14rem;
+    bottom: 8rem;
+    text-align: center;
+    font-size: larger;
+}
+
+#haskell-icon{
+    position: relative;
+    display: inline-block;
+    height: 64px;
+    width: 64px;
+    bottom: 13rem;
+    left: 8rem;
+    transform: rotate(45deg);
+}
+
+.head{
+    
+    background-color: #150050;
+    
+    height: 20rem;
+    margin: auto;
+    text-align: center;
+    
+    
+    width: 70rem;
+}
+
+.heading{
+    background-color: #150050;
+    margin: auto;
+    padding-top: 2rem ;
+   
+    
+    width: 30rem;
+    height: 15rem;
+    
+}
+
+.heading-big{
+    font-size: 400%;
+}
+
+.heading-under{
+    font-size: 200%;
+}
+
+#laptop-icon{
+    position: relative;
+    display: inline-block;
+    width: 128px;
+    height: 128px;
+    left: 70rem;
+    bottom: 10rem;
+    transform: rotate(325deg);
+}
+
+.my-profile{
+    background-color: #610094;
+    border-top: 5rem;
+    height: 15rem;
+    margin: 7rem auto 0rem auto;
+    width: 40rem;
+    
+    
+}
+
+#name{
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    left: 150px;
+    bottom: 10rem;
+    
+   
+    
+}
+
+.skill{
+    font-size: 150%;
+    text-align: left;
+    padding-right: 10rem;
+    padding-left: 10rem;
+
+}
+
+.skills{
+    display: flex;
+    justify-content: center;
+    padding-top: 1.5rem ;
+    
+}
+
+#skill-heading{
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 200%;
+}
+
+.skillsets{
+    background-color: #3f0071;
+    height: 25rem;
+    width: 50rem;
+    margin: 7rem auto 0rem auto;
+
+}
